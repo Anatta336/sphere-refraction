@@ -12,6 +12,7 @@
 /[Rr]aw/
 /[Ss]creenshots/
 /[Mm]emoryCaptures/
+/[Kk]ernelsCache/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
